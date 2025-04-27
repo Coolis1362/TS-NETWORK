@@ -16,6 +16,6 @@ The announcement of the codename for TS-KERNEL 1.0.1 has sparked excitement acro
 
 While the specific codename has not yet been disclosed here, the decision underscores TS-KERNEL's growth and adaptability. Each release not only strengthens the TS ecosystem but also lays a foundation for more ambitious projects ahead.
 
-The codename symbolizes the evolution of TS-KERNEL from a foundational operating system to a versatile, cutting-edge platform that empowers developers and users alike.
+The codename symbolizes the evolution of TS-KERNEL from a foundational operating system to a versatile, cutting-edge platform that empowers developers and users alike. And The Codename Is 'Pulse'.
 
 Copyright (c) 2025 Coolis1362. All rights reserved.
