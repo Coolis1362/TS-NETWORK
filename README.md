@@ -10,7 +10,7 @@ This is where the news is. The news is here. The news is now.
 ```markdown
 # Headline (Mostly 'TS-NETWORK News')
 
-## Section Name (Mostly 'The TS-NETWORK News')
+## Section Name (Mostly 'The TS-KERNEL News')
 
 ## Dateline
 
