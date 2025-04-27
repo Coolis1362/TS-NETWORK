@@ -10,7 +10,7 @@ A milestone moment for TS-KERNEL as relcan1 Releases!
 
 By Coolis1362 (or other authorized contributors)
 
-The release of Release Candidate 1 (relcan1) marks a major milestone in the journey of TS-KERNEL 1.0.1. This version showcases the culmination of rigorous testing, development, and innovation, setting the stage for its transition from alpha to stable release.
+The release of **Release Candidate 1 (relcan1)** marks a major milestone in the journey of TS-KERNEL 1.0.1. This version showcases the culmination of rigorous testing, development, and innovation, setting the stage for its transition from alpha to stable release.
 
 Relcan1 introduces significant refinements based on feedback from the earlier previews and alpha builds. Key highlights include improved boot performance, expanded TS-NETWORK integration, and enhanced CLI functionalities. This release not only strengthens the foundation of TS-KERNEL but also emphasizes its commitment to user experience and system reliability.
 
