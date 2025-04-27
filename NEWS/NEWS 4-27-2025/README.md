@@ -28,7 +28,7 @@ fetch_today_news(repo_url)
 ```
 
 ```python
-print("DONE PROCESS: 80% TIME:", time.time(), datetime.datetime.now(), "BOOTING: Defualt Network (Microsoft Network (MSN))")
+print("DONE PROCESS: 80% TIME:", time.time(), datetime.datetime.now(), "BOOTING: Default Network (Microsoft Network (MSN))")
     try:
         webbrowser.open("https://www.msn.com")
     except Exception as e:
