@@ -27,6 +27,16 @@ repo_url = "https://github.com/Coolis1362/TS-NETWORK"
 fetch_today_news(repo_url)
 ```
 
+```python
+print("DONE PROCESS: 80% TIME:", time.time(), datetime.datetime.now(), "BOOTING: Defualt Network (Microsoft Network (MSN))")
+    try:
+        webbrowser.open("https://www.msn.com")
+    except Exception as e:
+        print(f"BOOT: ERROR: Error Code 634: {e}")
+        return False
+    print("DONE PROCESS: 100% TIME:", time.time(), datetime.datetime.now(), "BOOTED: Default Network (Microsoft Network (MSN))")
+```
+
 (Code [Like A Photo But With Code] [And It's Above])
 
 This code Above, Fetches The News From The TS-NETWORK Repository. It Clones The Repository To Your Local Machine. You Can Then Access The News Articles From The `NEWS` Folder. (Caption)
