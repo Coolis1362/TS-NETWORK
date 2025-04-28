@@ -1,6 +1,6 @@
 # TS-NETWORK News
 
-## The TS-NETWORK News
+## The TS-KERNEL News
 
 April 27, 2025
 
