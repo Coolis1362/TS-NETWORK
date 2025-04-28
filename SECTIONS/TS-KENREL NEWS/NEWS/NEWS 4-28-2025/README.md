@@ -1,4 +1,4 @@
-# TS-KERNEL News
+# TS-NETWORK News
 
 ## The TS-KERNEL News
 
