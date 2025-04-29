@@ -43,3 +43,4 @@ tsdistrocommand = input(f"{MAIN_USER_NAME}at{DISTRO_NAME}:in {os.getcwd()}"
 
 (Code)
 
+Copyright (C) 2025 Coolis1362 and other authorized contributors All Rights Reserved.
