@@ -79,3 +79,5 @@ sudo dpkg --remove ts-kernel-lt
 - [TS-KERNEL LT on GitHub](https://github.com/Coolis1362/TS-KERNEL-LT)
 - [Releases](https://github.com/Coolis1362/TS-KERNEL-LT/releases)
 - [Issues](https://github.com/Coolis1362/TS-KERNEL-LT/issues)
+
+WARNING: THIS HAVES BUGS, SO COPY AND PASTE THE `BTS\\my-package\\usr\\bin\\root` FOLDER AND YOU CAN MAKE YOUR OWN TS-DISTRO DISTRO!
