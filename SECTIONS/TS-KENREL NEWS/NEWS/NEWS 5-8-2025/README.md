@@ -25,4 +25,11 @@ With **Project Professional in active development**, TS-KERNEL continues to push
 
 A glimpse into **TS-KERNEL 1.0.1.4 Professional’s pre-alpha testing phase**, showcasing the early stages of **Project Professional 2024.5** in action.  
 
+## NOTES
+
+- Project Professional Is Available But A Work In Progress, So you Can be The Testers!
+- Project Professional Will Get Monthly Updates, So Stay Tuned For More!
+- Project Professional Will Be not For TS-KERNEL LST and RHT, making it not for Linux.
+- Project Professional Version Naming will Be Formated: YYYY.MM (Year.Month)
+
 🔐 Copyright (c) 2025 Coolis1362 & Contributors. All Rights Reserved.  
