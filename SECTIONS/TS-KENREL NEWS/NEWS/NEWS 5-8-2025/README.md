@@ -21,7 +21,7 @@ After months of conceptual planning, **TS-KERNEL 1.0.1.4 Pro** is now transition
 
 With **Project Professional in active development**, TS-KERNEL continues to push forward as a **potential successor to traditional Windows Server Technology (WST).** The OS universe eagerly watches for what’s next in this innovative journey.
 
-![Project Professional Leak](image-url-here)
+![Project Professional Leak](https://github.com/Coolis1362/TS-NETWORK/blob/NEWS/SECTIONS/TS-KENREL%20NEWS/NEWS/NEWS%205-8-2025/pictures/Screenshot%202025-05-08%20162218.png)
 
 A glimpse into **TS-KERNEL 1.0.1.4 Professional’s pre-alpha testing phase**, showcasing the early stages of **Project Professional 2024.5** in action.  
 
