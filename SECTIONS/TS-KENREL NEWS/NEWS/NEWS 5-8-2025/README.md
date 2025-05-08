@@ -19,9 +19,9 @@ After months of conceptual planning, **TS-KERNEL 1.0.1.4 Pro** is now transition
 - ✅ **System Architecture Refinements** – Performance optimizations for high-demand computing.  
 - ✅ **Future-Proof Adaptability** – Ensuring smooth integration with modern server environments.  
 
-With **Project Professional in active development**, TS-KERNEL continues to push forward as a **potential successor to traditional Windows Server Technology (WST).** The OS universe eagerly watches for what’s next in this innovative journey.  
- 
-![Placeholder for an official TS-KERNEL development image](image-url-here)  
+With **Project Professional in active development**, TS-KERNEL continues to push forward as a **potential successor to traditional Windows Server Technology (WST).** The OS universe eagerly watches for what’s next in this innovative journey.
+
+![Project Professional Leak](image-url-here)
 
 A glimpse into **TS-KERNEL 1.0.1.4 Professional’s pre-alpha testing phase**, showcasing the early stages of **Project Professional 2024.5** in action.  
 
